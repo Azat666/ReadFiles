@@ -1,0 +1,35 @@
+<cars>
+
+    <car>
+
+        <model>ESCALADE</model>
+
+        <marka>Cadillac</marka>
+
+        <price>$74,695</price>
+
+    </car>
+
+
+    <car>
+
+        <model>G-Class SUV </model>
+
+        <marka>Mercedes-Benz</marka>
+
+        <price>$222,700</price>
+
+    </car>
+
+
+    <car>
+
+        <model> X6 M</model>
+
+        <marka>BMW</marka>
+
+        <price>$106,095</price>
+
+    </car>
+
+</cars>
